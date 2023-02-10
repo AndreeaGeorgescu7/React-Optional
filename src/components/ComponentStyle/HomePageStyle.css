@@ -1,0 +1,27 @@
+
+
+body{
+ background-image: url("../../images/backgroundFlower.jpg");
+ background-size: cover;
+ image-rendering: -webkit-optimize-contrast;
+}
+.slogan , .userMessage{
+
+
+ 
+        color: rgb(255, 255, 255);
+        text-shadow: 2px 2px 2px black, 0 0 35px rgb(252, 93, 238), 0 0 5px rgb(247, 0, 185);
+        text-align: center;
+        padding-top: 23%;
+
+}
+
+.slogan2{
+    color: rgb(252, 93, 238);
+    
+    text-align: center;
+  
+}
+.slogan , .slogan2{
+    font-family: 'Courier New', Courier, monospace;
+}

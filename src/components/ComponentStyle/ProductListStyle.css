@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    grid-template-columns: 10rem 10rem 10rem 10rem;
+    grid-gap: 8rem;
+    margin-left: 8rem;
+    margin-top: 5rem;
+  
+  }
+
+  .productDescription{
+text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+
+  }
+.productName{
+
+  font-weight: bold;
+}
+  .productDescription:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+   
+  }
+ 

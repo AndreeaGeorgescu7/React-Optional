@@ -1,0 +1,54 @@
+
+.form{
+   
+    border-radius: 10px;
+    width: 350px;
+    margin: 20px auto;
+    padding-top: 180px;
+    /* height: 600px; */
+   border-color: rgb(238, 187, 243);
+    text-align: center;
+
+}
+
+.form2{
+   
+    background: linear-gradient(to right, #b16fbd, #b979ee);
+}
+
+.form_input{
+    width: 60%;
+   
+   
+}
+.form_label{
+
+    color: rgb(59, 59, 59);
+    text-shadow: 2px 2px 5px black, 0 0 35px rgb(255, 239, 254), 0 0 5px rgb(248, 247, 248);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#regTitle{
+
+    background-color: rgb(255, 170, 184);
+    height: 50px;
+     padding-top: 20px; 
+
+     color: rgb(255, 255, 255);
+     text-shadow: 2px 2px 2px black, 0 0 35px rgb(252, 93, 238), 0 0 5px rgb(247, 0, 185);
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     
+  
+}
+
+.rbutton{
+font-weight: bold;
+border-color: blueviolet;
+
+}
+.rbutton:hover{
+ 
+    transform: scale(1.2);
+    transition: all 0.3s ease-in-out 0.2s;
+       }
